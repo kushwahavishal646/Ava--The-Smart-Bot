@@ -1,0 +1,5 @@
+[defaults]
+org=infra-market
+project=im-psn-web
+[auth]
+token=bcc851acb5274dd6b381e1fe220708017d27c000c5bd4e48a5edb1f06af11c5a
